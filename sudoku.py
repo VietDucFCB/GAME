@@ -102,6 +102,7 @@ def visualize_sudoku(grid_gen, n):
 
 
 # Main program to run the game
+
 if __name__ == "__main__":
     n = 9  # For a standard Sudoku, n=9
     num_given = 20  # Number of pre-filled cells
