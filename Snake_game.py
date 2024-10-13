@@ -5,7 +5,6 @@ import random
 # Khởi tạo pygame
 pygame.init()
 
-# Các màu sắc
 white = (255, 255, 255)
 yellow = (255, 255, 102)
 black = (0, 0, 0)
