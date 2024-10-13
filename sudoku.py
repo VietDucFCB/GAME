@@ -4,7 +4,7 @@ import pygame
 import time
 
 
-# Function to check if a number can be safely placed in the grid
+# Function to check if a number can be safely  in the grid
 def is_safe(grid, row, col, num):
     n = len(grid)
     # Check row, column, and block constraints
