@@ -12,7 +12,6 @@ red = (213, 50, 80)
 green = (0, 255, 0)
 blue = (50, 153, 213)
 
-# Kích thước màn hình
 dis_width = 800
 dis_height = 600
 
