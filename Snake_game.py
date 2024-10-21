@@ -20,7 +20,7 @@ dis = pygame.display.set_mode((dis_width, dis_height))
 pygame.display.set_caption('Snake Game')
 
 
-# Đặt tốc độ của Snake
+# Đặt tố
 clock = pygame.time.Clock()
 snake_speed = 15
 snake_block = 10
